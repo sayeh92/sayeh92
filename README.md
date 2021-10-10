@@ -1,7 +1,7 @@
 # Hi, I'm Sayeh! 👋
 
-## 🚀 
-I'm a Front End Developer.
+ 
+I'm a Front End Developer🚀.
 - 🔭 I have sufficient knowledge and experince of HTML and CSS. 
 - 🌱 I have knowledge of Vanilla JavaScript.
 - 👯 I’m looking for an entry level job.
