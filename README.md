@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a Front End Developer.
 - 🔭 I have sufficient knowledge and experince of HTML and CSS. 
-- 🌱 I’m currently learning Vanilla JavaScript.
+- 🌱 I have knowledge of Vanilla JavaScript.
 - 👯 I’m looking for an entry level job.
 
 ## 🔗 Links
