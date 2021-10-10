@@ -12,7 +12,8 @@ I'm a Front End Developer.
 
  
 ## 🛠 Skills
-Javascript, HTML, CSS...
+(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
   
 
 
