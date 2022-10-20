@@ -37,4 +37,14 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+
+```text
+CSS          8 hrs 17 mins   ██████████████▓░░░░░░░░░░   58.45 %
+HTML         3 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+JavaScript   2 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+TypeScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+C#           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+```
+
 <!--END_SECTION:waka-->
