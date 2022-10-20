@@ -1,3 +1,7 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 # Hi, I'm Sayeh! 👋
 
  
@@ -8,7 +12,7 @@ I'm a Front End Developer🚀.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayeh-ghaderi-11aa62106/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GhaderiSayeh)
+
 
  
 ## 🛠 Skills
