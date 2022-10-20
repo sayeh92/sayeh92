@@ -1,5 +1,4 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 
 # Hi, I'm Sayeh! 👋
@@ -35,3 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
