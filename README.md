@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-CSS          8 hrs 17 mins   ██████████████▓░░░░░░░░░░   58.45 %
-HTML         3 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
-JavaScript   2 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-TypeScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-C#           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Total Time: 43 hrs 7 mins
+
+CSS          22 hrs 24 mins  >>>>>>>>>>>>>------------   51.95 %
+HTML         12 hrs 59 mins  >>>>>>>>-----------------   30.12 %
+JavaScript   5 hrs 8 mins    >>>----------------------   11.91 %
+Other        48 mins         -------------------------   01.86 %
 ```
 
 <!--END_SECTION:waka-->
