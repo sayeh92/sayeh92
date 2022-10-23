@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 43 hrs 7 mins
+Total Time: 44 hrs 59 mins
 
-CSS          22 hrs 24 mins  >>>>>>>>>>>>>------------   51.95 %
-HTML         12 hrs 59 mins  >>>>>>>>-----------------   30.12 %
-JavaScript   5 hrs 8 mins    >>>----------------------   11.91 %
-Other        48 mins         -------------------------   01.86 %
+CSS          22 hrs 59 mins  >>>>>>>>>>>>>------------   51.11 %
+HTML         13 hrs 9 mins   >>>>>>>------------------   29.25 %
+JavaScript   6 hrs 14 mins   >>>----------------------   13.86 %
+Other        48 mins         -------------------------   01.79 %
 ```
 
 <!--END_SECTION:waka-->
