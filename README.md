@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+<a href="https://app.daily.dev/SayehCodes"><img src="https://api.daily.dev/devcards/1da3c069f92f4453a33e24a96b51ddbc.png?r=yqa" width="400" alt="Sayeh Ghaderi's Dev Card"/></a>
 <!--START_SECTION:waka-->
 
 ```text
