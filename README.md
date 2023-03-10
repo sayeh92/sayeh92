@@ -1,11 +1,11 @@
 
 
 
-# Hi, I'm Sayeh! 👋
-
-<div id="header" align="center">
+# Hi, I'm Sayeh! 👋 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+
  
 I'm a Front End Developer🚀.
 - 🔭 I have sufficient knowledge and experince of HTML and CSS. 
