@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdmOWIxNzk0ODMxNjlmOGY3OTM2ZTQxMWNjMDM3ZDExYmZiMmU2OSZjdD1n/eDDrmbtY0aSAII8ffT/giphy.gif" width="250"/>
+ <a href="https://app.daily.dev/SayehCodes"><img src="https://api.daily.dev/devcards/1da3c069f92f4453a33e24a96b51ddbc.png?r=yqa" width="400" alt="Sayeh Ghaderi's Dev Card"/></a>
 </div>
 
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/SayehCodes"><img src="https://api.daily.dev/devcards/1da3c069f92f4453a33e24a96b51ddbc.png?r=yqa" width="400" alt="Sayeh Ghaderi's Dev Card"/></a>
+
 <!--START_SECTION:waka-->
 
 ```text
