@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 Total Time: 150 hrs 27 mins
 
 C#           50 hrs 16 mins  >>>>>>>>-----------------   33.41 %
-CSS          28 hrs 39 mins  >>>>>--------------------   19.05 %
+CSS          28 hrs 39 mins  >>>>>--------------------   19.04 %
 Other        22 hrs 6 mins   >>>>---------------------   14.70 %
 ```
 
