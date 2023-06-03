@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 156 hrs 33 mins
 
 C#           50 hrs 16 mins  >>>>>>>>-----------------   32.11 %
