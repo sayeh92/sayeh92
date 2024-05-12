@@ -38,16 +38,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 163 hrs 22 mins
-
-C#           50 hrs 16 mins  >>>>>>>>-----------------   30.77 %
-CSS          29 hrs 18 mins  >>>>---------------------   17.94 %
-JavaScript   24 hrs 45 mins  >>>>---------------------   15.15 %
-Other        22 hrs 23 mins  >>>----------------------   13.70 %
-HTML         21 hrs 38 mins  >>>----------------------   13.25 %
-```
-
-<!--END_SECTION:waka-->
